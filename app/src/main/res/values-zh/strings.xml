@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">算术</string>
+    <string name="menu">菜单</string>
+    <string name="settings">设定</string>
+    <string name="game">游戏</string>
+    <string name="sound">声音</string>
+    <string name="music">音乐</string>
+    <string name="time">时间</string>
+    <string name="difficult">难度</string>
+    <string name="back">前</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="formula">2 + 2</string>
+    <string name="scoreontop">15</string>
+    <string name="your_score">4</string>
+    <string name="new_record">新纪录！</string>
+    <string name="replay">重播</string>
+    <string name="recorded">你的分数:</string>
+    <string name="best_record">记录:</string>
+    <string name="description">desc</string>
+    <string name="easy">易</string>
+    <string name="normal">正常</string>
+    <string name="hard">难</string>
+    <string name="title">算术</string>
+    <string name="word1">没错！</string>
+    <string name="word2">真的！</string>
+    <string name="word3">聪明！</string>
+    <string name="word4">做得好！</string>
+    <string name="word5">太棒了！</string>
+    <string name="nointernet">我怎么能感到悲伤时，有没有互联网接入...</string>
+
+
+    <string name="title_activity_second_activiy">Interstitial</string>
+    <string name="msg_welcome">Welcome to Admob. Click on the below button to launch the Interstitial ad.</string>
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-3143297239120863/3991453638</string>
+    <string name="interstitial_full_screen">ca-app-pub-0664570763252260/1769900428</string>
+
+
+</resources>

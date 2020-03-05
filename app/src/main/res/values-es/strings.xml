@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Aritmética</string>
+    <string name="menu">Menú</string>
+    <string name="settings">AJUSTES</string>
+    <string name="game">Juego</string>
+    <string name="sound">SOÑAR</string>
+    <string name="music">MÚSICA</string>
+    <string name="time">TIEMPO</string>
+    <string name="difficult">DIFICULTAD</string>
+    <string name="back">DE VUELTA</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="formula">2 + 2</string>
+    <string name="scoreontop">15</string>
+    <string name="your_score">4</string>
+    <string name="new_record">NUEVO RÉCORD!</string>
+    <string name="replay">JUEGA DE NUEVO</string>
+    <string name="recorded">SU PUNTUACIÓN</string>
+    <string name="best_record">RÉCORD:</string>
+    <string name="description">desc</string>
+    <string name="easy">FÁCIL</string>
+    <string name="normal">NORMALMENTE</string>
+    <string name="hard">DIFÍCIL</string>
+    <string name="title">ARITMÉTICA</string>
+    <string name="word1">Inteligente!</string>
+    <string name="word2">Derecho!</string>
+    <string name="word3">Genial!</string>
+    <string name="word4">Bueno!</string>
+    <string name="word5">Maravilloso!</string>
+    <string name="nointernet">Cómo soy triste cuando no hay acceso a Internet...</string>
+
+
+    <string name="title_activity_second_activiy">Interstitial</string>
+    <string name="msg_welcome">Welcome to Admob. Click on the below button to launch the Interstitial ad.</string>
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-3143297239120863/3991453638</string>
+    <string name="interstitial_full_screen">ca-app-pub-0664570763252260/1769900428</string>
+
+
+</resources>

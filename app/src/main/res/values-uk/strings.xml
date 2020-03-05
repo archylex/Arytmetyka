@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Арифметика</string>
+    <string name="menu">Меню</string>
+    <string name="settings">НАЛАШТУВАННЯ</string>
+    <string name="game">Гра</string>
+    <string name="sound">ЗВУК</string>
+    <string name="music">МУЗИКА</string>
+    <string name="time">ЧАС</string>
+    <string name="difficult">РIВЕНЬ</string>
+    <string name="back">НАЗАД</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="formula">2 + 2</string>
+    <string name="scoreontop">15</string>
+    <string name="your_score">4</string>
+    <string name="new_record">НОВИЙ РЕКОРД!</string>
+    <string name="replay">ЗАНОВО</string>
+    <string name="recorded">ВИ НАБРАЛИ:</string>
+    <string name="best_record">РЕКОРД:</string>
+    <string name="description">desc</string>
+    <string name="easy">ЛЕГКО</string>
+    <string name="normal">НОРМАЛЬНО</string>
+    <string name="hard">СКЛАДНО</string>
+    <string name="title">АРИФМЕТИКА</string>
+    <string name="word1">Правильно!</string>
+    <string name="word2">Молодець!</string>
+    <string name="word3">Вiрно!</string>
+    <string name="word4">Добре!</string>
+    <string name="word5">Відмінно!</string>
+    <string name="nointernet">Як же менi сумно, коли немає доступу в інтернет...</string>
+
+
+    <string name="title_activity_second_activiy">Interstitial</string>
+    <string name="msg_welcome">Welcome to Admob. Click on the below button to launch the Interstitial ad.</string>
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-3143297239120863/3991453638</string>
+    <string name="interstitial_full_screen">ca-app-pub-0664570763252260/1769900428</string>
+
+
+</resources>

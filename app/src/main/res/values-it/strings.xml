@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Aritmetica</string>
+    <string name="menu">Menu</string>
+    <string name="settings">IMPOSTAZIONI</string>
+    <string name="game">GIOCO</string>
+    <string name="sound">SUONO</string>
+    <string name="music">MUSICA</string>
+    <string name="time">TEMPO</string>
+    <string name="difficult">LIVELLO DI DIFFICOLTÀ</string>
+    <string name="back">INDIETRO</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="formula">2 + 2</string>
+    <string name="scoreontop">15</string>
+    <string name="your_score">4</string>
+    <string name="new_record">UN NUOVO RECORD!</string>
+    <string name="replay">REPLAY</string>
+    <string name="recorded">IL RISULTATO:</string>
+    <string name="best_record">MIGLIOR PUNTEGGIO:</string>
+    <string name="description">desc</string>
+    <string name="easy">FACILE</string>
+    <string name="normal">NORMALE</string>
+    <string name="hard">COMPLESSO</string>
+    <string name="title">ARITMETICA</string>
+    <string name="word1">Meraviglioso!</string>
+    <string name="word2">Complimenti!</string>
+    <string name="word3">Proprio così!</string>
+    <string name="word4">Eccellente!</string>
+    <string name="word5">Buono!</string>
+    <string name="nointernet">Как же мне грустно, когда нет доступа в интернет...</string>
+
+
+    <string name="title_activity_second_activiy">Interstitial</string>
+    <string name="msg_welcome">Welcome to Admob. Click on the below button to launch the Interstitial ad.</string>
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-3143297239120863/3991453638</string>
+    <string name="interstitial_full_screen">ca-app-pub-0664570763252260/1769900428</string>
+
+
+</resources>

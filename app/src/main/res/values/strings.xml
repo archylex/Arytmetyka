@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Arithmetic</string>
+    <string name="menu">Main Menu</string>
+    <string name="settings">SETTINGS</string>
+    <string name="game">Game</string>
+    <string name="sound">SOUND</string>
+    <string name="music">MUSIC</string>
+    <string name="time">TIME</string>
+    <string name="difficult">DIFFICULTY</string>
+    <string name="back">BACK</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="formula">2 + 2</string>
+    <string name="scoreontop">15</string>
+    <string name="your_score">4</string>
+    <string name="new_record">NEW RECORD!</string>
+    <string name="replay">REPLAY</string>
+    <string name="recorded">YOUR SCORE:</string>
+    <string name="best_record">BEST RECORD:</string>
+    <string name="description">desc</string>
+    <string name="easy">EASY</string>
+    <string name="normal">NORMAL</string>
+    <string name="hard">HARD</string>
+    <string name="title">ARITHMETIC</string>
+    <string name="word1">Well done!</string>
+    <string name="word2">Clever!</string>
+    <string name="word3">Exactly!</string>
+    <string name="word4">Excellent!</string>
+    <string name="word5">Good!</string>
+    <string name="nointernet">How cry I\'m when there\'s no access to the Internet...</string>
+
+
+    <string name="title_activity_second_activiy">Interstitial</string>
+    <string name="msg_welcome">Welcome to Admob. Click on the below button to launch the Interstitial ad.</string>
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-3143297239120863/9834006430</string>
+    <string name="interstitial_full_screen">ca-app-pub-3143297239120863/5264206033</string>
+
+
+</resources>

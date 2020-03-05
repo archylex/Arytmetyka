@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">さんじゅつ</string>
+    <string name="menu">メニュー</string>
+    <string name="settings">せってい</string>
+    <string name="game">ゲーム</string>
+    <string name="sound">サウンド</string>
+    <string name="music">おんがく</string>
+    <string name="time">じかん</string>
+    <string name="difficult">難易度</string>
+    <string name="back">戻る</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="formula">2 + 2</string>
+    <string name="scoreontop">15</string>
+    <string name="your_score">4</string>
+    <string name="new_record">新記録！</string>
+    <string name="replay">リプレイ</string>
+    <string name="recorded">スコア:</string>
+    <string name="best_record">きろくは</string>
+    <string name="description">desc</string>
+    <string name="easy">かんたん</string>
+    <string name="normal">ふつう</string>
+    <string name="hard">むずかしい</string>
+    <string name="title">さんじゅつ</string>
+    <string name="word1">よくやった！</string>
+    <string name="word2">あたまがいいです！</string>
+    <string name="word3">賢いです！</string>
+    <string name="word4">そうです！</string>
+    <string name="word5">いいね！</string>
+    <string name="nointernet">インターネットへのアクセスがないとき、どのように私は悲しく感じています...</string>
+
+
+    <string name="title_activity_second_activiy">Interstitial</string>
+    <string name="msg_welcome">Welcome to Admob. Click on the below button to launch the Interstitial ad.</string>
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-3143297239120863/3991453638</string>
+    <string name="interstitial_full_screen">ca-app-pub-0664570763252260/1769900428</string>
+
+
+</resources>

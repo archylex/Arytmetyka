@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Arithmetik</string>
+    <string name="menu">Menü</string>
+    <string name="settings">EINSTELLUNGEN</string>
+    <string name="game">Spiel</string>
+    <string name="sound">KLÄNGE</string>
+    <string name="music">MUSIK</string>
+    <string name="time">ZEIT</string>
+    <string name="difficult">SCHWIERIGKEITSGRAD</string>
+    <string name="back">ZURÜCK</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="formula">2 + 2</string>
+    <string name="scoreontop">15</string>
+    <string name="your_score">4</string>
+    <string name="new_record">EIN NEUER REKORD!</string>
+    <string name="replay">WIEDERHOLUNG</string>
+    <string name="recorded">IHR ERGEBNIS:</string>
+    <string name="best_record">BESTES ERGEBNIS:</string>
+    <string name="description">desc</string>
+    <string name="easy">LEICHT</string>
+    <string name="normal">NORMALERWEISE</string>
+    <string name="hard">SCHWIERIG</string>
+    <string name="title">ARITHMETIK</string>
+    <string name="word1">Das ist richtig!</string>
+    <string name="word2">Gut!</string>
+    <string name="word3">Gut gemacht!</string>
+    <string name="word4">Ausgezeichnet!</string>
+    <string name="word5">Großartig!</string>
+    <string name="nointernet">So traurig wie ich, wenn es keinen Zugang zum Internet...</string>
+
+
+    <string name="title_activity_second_activiy">Interstitial</string>
+    <string name="msg_welcome">Welcome to Admob. Click on the below button to launch the Interstitial ad.</string>
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-3143297239120863/3991453638</string>
+    <string name="interstitial_full_screen">ca-app-pub-0664570763252260/1769900428</string>
+
+
+</resources>

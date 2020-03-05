@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">산수</string>
+    <string name="menu">메뉴</string>
+    <string name="settings">설정</string>
+    <string name="game">경기</string>
+    <string name="sound">소리</string>
+    <string name="music">음악</string>
+    <string name="time">시간</string>
+    <string name="difficult">난이도</string>
+    <string name="back">뒤로</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="formula">2 + 2</string>
+    <string name="scoreontop">15</string>
+    <string name="your_score">4</string>
+    <string name="new_record">새로운 기록!</string>
+    <string name="replay">ЗАНОВО</string>
+    <string name="recorded">계정 :</string>
+    <string name="best_record">기록 :</string>
+    <string name="description">desc</string>
+    <string name="easy">쉽게</string>
+    <string name="normal">보통</string>
+    <string name="hard">어려운</string>
+    <string name="title">산수</string>
+    <string name="word1">좋아!</string>
+    <string name="word2">영리한!</string>
+    <string name="word3">잘!</string>
+    <string name="word4">좋은!</string>
+    <string name="word5">멋진!</string>
+    <string name="nointernet">인터넷에 액세스가 없을 때 어떻게 슬픔을 느낄 수 ...</string>
+
+
+    <string name="title_activity_second_activiy">Interstitial</string>
+    <string name="msg_welcome">Welcome to Admob. Click on the below button to launch the Interstitial ad.</string>
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-3143297239120863/3991453638</string>
+    <string name="interstitial_full_screen">ca-app-pub-0664570763252260/1769900428</string>
+
+
+</resources>
